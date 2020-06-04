@@ -1,6 +1,3 @@
-/*
-  实例化 - 入口文件
- */
 const { Wechaty } = require("wechaty");
 const { PuppetPadplus } = require("wechaty-puppet-padplus");
 const config = require("./config");
