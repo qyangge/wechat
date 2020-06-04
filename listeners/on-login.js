@@ -1,9 +1,5 @@
 /*
- * @Author: Peanut
- * @Description:  登录
- * @Date: 2020-05-20 23:21:06
- * @Last Modified by: Peanut
- * @Last Modified time: 2020-05-20 23:21:42
+ 登录
  */
 const schedule = require("../schedule");
 const config = require("../config");
