@@ -1,9 +1,5 @@
 /*
- * @Author: Peanut
- * @Description:  实例化 - 入口文件
- * @Date: 2020-05-19 21:55:04
- * @Last Modified by: Peanut
- * @Last Modified time: 2020-05-24 00:12:54
+  实例化 - 入口文件
  */
 const { Wechaty } = require("wechaty");
 const { PuppetPadplus } = require("wechaty-puppet-padplus");

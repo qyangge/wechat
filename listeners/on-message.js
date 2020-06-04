@@ -1,9 +1,5 @@
 /*
- * @Author: Peanut
- * @Description:  处理用户消息
- * @Date: 2020-05-20 22:36:28
- * @Last Modified by: Peanut
- * @Last Modified time: 2020-05-23 23:20:36
+ 消息
  */
 const bot = require("../app.js");
 const { UrlLink } = require("wechaty");

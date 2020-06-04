@@ -1,6 +1,5 @@
 /**
  * 处理好友关系模块
- * by: Peanut
  */
 const {
   Friendship

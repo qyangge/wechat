@@ -1,9 +1,5 @@
 /*
- * @Author: Peanut 
- * @Description:  登录
- * @Date: 2020-05-21 14:11:28 
- * @Last Modified by:   Peanut 
- * @Last Modified time: 2020-05-21 14:11:28 
+ * 登录
  */
 async function onScan (qrcode, status) {
   require('qrcode-terminal').generate(qrcode, {small: true})
